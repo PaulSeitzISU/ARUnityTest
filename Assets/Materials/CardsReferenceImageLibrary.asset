@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: CardsReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5098893157014580266
+  m_GuidHigh: 1177797224761127359
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5152458456992593548
+      m_GuidHigh: 17079277710451671172
+    m_SerializedTextureGuid:
+      m_GuidLow: 12219402399956596412
+      m_GuidHigh: 3474090501903632297
+    m_Size: {x: 0.12841883, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Artboard 9
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5478588710270776327
+      m_GuidHigh: 15723279029452521891
+    m_SerializedTextureGuid:
+      m_GuidLow: 7040366808985689468
+      m_GuidHigh: 15495091511068814586
+    m_Size: {x: 0.12841883, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Artboard 9_1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5039760148588259504
+      m_GuidHigh: 7461708639992299175
+    m_SerializedTextureGuid:
+      m_GuidLow: 14214512901394353579
+      m_GuidHigh: 11361877004094742313
+    m_Size: {x: 0.12841883, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Artboard 9_2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5459310826499212978
+      m_GuidHigh: 3521428188709771194
+    m_SerializedTextureGuid:
+      m_GuidLow: 640781831720037238
+      m_GuidHigh: 5017260794065371163
+    m_Size: {x: 0.12841883, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Artboard 9_3
+    m_Texture: {fileID: 0}
